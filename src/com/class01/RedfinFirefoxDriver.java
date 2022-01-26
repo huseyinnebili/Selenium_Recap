@@ -3,7 +3,7 @@ package com.class01;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class RedfinFirefoxDriver {
+public class RedfinFirefoxDriver 
 
 	public static void main(String[] args) throws InterruptedException {
 
